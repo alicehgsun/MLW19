@@ -59,14 +59,14 @@ var xFruit = 0;
 var yFruit = 0;
 
 function modelReady() {
-  select('#status').html('FeatureExtractor(mobileNet model) Loaded')
+  select('#status').html('Dataset Loaded')
 }
 
 function setup() {
   featureExtractor = ml5.featureExtractor('MobileNet', modelReady);
   video = createCapture(VIDEO);
   video.parent('videoContainer');
-  knnClassifier.load('data/myKNNDataset.json');
+  knnClassifier.load('CreateDataset/myKNNDataset.json');
 
   createCanvas(windowWidth, windowHeight);
   frameRate(15);
