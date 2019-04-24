@@ -1,0 +1,9 @@
+html, body {
+  /* margin: 0; */
+  padding-top: 20px;
+  text-align: center;
+}
+
+h1, p {
+  font-family: 'Work Sans', sans-serif;
+}
