@@ -6,5 +6,8 @@ Machine Learning for the Web 2019
 <br>Assignment 2 that takes video input to control the snake, with [KNN Classification](https://github.com/ml5js/ml5-examples/tree/master/p5js/KNNClassification/KNNClassification_Video)
 3. [Week 3: Interactive Text](https://alicehgsun.github.io/MLW19/week3/)
 <table><tr><td>
-<img src="/week3-sample.png"/ alt="401 error to access Dialogflow project">
+<img src="/week3-sample.png"/ alt="screenshot of inserting two classes of data sample">
+ </td></tr></table>
+<table><tr><td>
+<img src="/week3-2.png"/ alt="screenshot of interactive text reacted by image classification">
 </td></tr></table>
