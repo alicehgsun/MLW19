@@ -9,5 +9,5 @@ Machine Learning for the Web 2019
 <img src="/week3-sample.png"/ alt="screenshot of inserting two classes of data sample">
  </td></tr></table>
 <table><tr><td>
-<img src="/week3-2.png"/ alt="screenshot of interactive text reacted by image classification">
+<img src="/week3-2.gif"/ alt="screenshot of interactive text reacted by image classification">
 </td></tr></table>
