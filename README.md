@@ -7,7 +7,7 @@ Machine Learning for the Web 2019
 3. [Week 3: Interactive Text](https://github.com/alicehgsun/MLW19/tree/master/week3)
 <br>Interactive simulation text example with image classification
 <table><tr><td>
-<img src="/week3-2.gif"/ alt="screenshot of interactive text reacted by image classification">
+<img src="/week3-0.gif"/ alt="screenshot of interactive text reacted by image classification">
  </td></tr></table>
  
 <table><tr><td>
