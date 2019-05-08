@@ -4,7 +4,7 @@ from requests_oauthlib import OAuth1
 
 
 for x in range(0, 22):
-    auth = OAuth1("1d6cea836bd14236a738db46ae3a04e8", "d6468ddcf793486b8d6ea7a768a90d82")
+    auth = OAuth1("KEY", "SECRET_KEY")
     # endpoint = "https://api.thenounproject.com/icons/doughnut?page=2"
     endpoint = "https://api.thenounproject.com/icons/doughnut?page=" + str(x)
 
